@@ -17,18 +17,3 @@ Estrutura base do jogo
 Organização em pacotes (src/wolfer)
 
 Novas classes já em desenvolvimento.
-
-
-📦 Estrutura do Projeto
-wolfer/
- ├── src/
- │   └── wolfer/
- │       ├── Game.java
- │       ├── Main.java
- │       └── Players.java
- │
- ├── src/wolfer/enums_profissoes/
- │       └── Classes.java
- │
- ├── README.md
- └── .project / .classpath (arquivos do Eclipse)
